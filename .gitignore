@@ -1,0 +1,9 @@
+.env
+*.xlsx
+*.csv
+COCINA
+*.notes
+data
+*.json
+.ipynb_checkpoints/
+
